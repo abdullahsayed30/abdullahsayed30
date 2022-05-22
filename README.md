@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 <!--
 **abdullahsayed30/abdullahsayed30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahsayed30&show_icons=true&locale=en&layout=compact" alt="abdullahsayed30" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahsayed30&show_icons=true&locale=en" alt="abdullahsayed30" /></p>
