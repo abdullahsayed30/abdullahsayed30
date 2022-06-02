@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - A Software Engineer at <a href="https://www.tofaha.net/">Tofaha</a>
 - Studied Computer Science 
 
-<h2>📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:</h2>
+<h2>📫 How To Reach Me:</h2>
 
 <a href="https://www.linkedin.com/in/abdullah-sayed30/">
   <img align="left" alt="Abdullah Sayed LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
