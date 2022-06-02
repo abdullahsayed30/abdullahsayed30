@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - Studied Computer Science 
 
 <h2>⚡ Overviwe:</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullahsayed30&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abdullahsayed30" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahsayed30&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abdullahsayed30" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahsayed30&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abdullahsayed30" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahsayed30&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abdullahsayed30" />
 
 <br/>
 
