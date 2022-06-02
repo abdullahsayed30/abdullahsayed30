@@ -25,12 +25,28 @@ Here are some ideas to get you started:
 - A Software Engineer at <a href="https://www.tofaha.net/">Tofaha</a>
 - Studied Computer Science 
 
+<h2>⚡ Overviwe:</h2>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullahsayed30&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abdullahsayed30" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahsayed30&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abdullahsayed30" />
+
+<br/>
+
 <h2>📫 How To Reach Me:</h2>
-
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+<br/>
 <a href="https://www.linkedin.com/in/abdullah-sayed30/">
-  <img align="left" alt="Abdullah Sayed LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abdullah's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.instagram.com/abdullahsayed_30/">
+  <img align="left" alt="Abdullah's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.com/users/abdullahsayed30">
+  <img align="left" alt="Abdullah's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/abdullahsayed30">
+  <img align="left" alt="Abdullah's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<br/>
+abdullahsayed30@gmail.com
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahsayed30&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abdullahsayed30" />
 
-&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abdullahsayed30&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abdullahsayed30" />
