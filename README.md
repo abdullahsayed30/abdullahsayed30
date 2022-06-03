@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 <br/>
 
 <h2>📫 How To Reach Me:</h2>
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 <br/>
 <a href="https://www.linkedin.com/in/abdullah-sayed30/">
   <img align="left" alt="Abdullah's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -47,6 +46,5 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 <a href="https://twitter.com/abdullahsayed30">
   <img align="left" alt="Abdullah's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-
-
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
