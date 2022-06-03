@@ -47,7 +47,6 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 <a href="https://twitter.com/abdullahsayed30">
   <img align="left" alt="Abdullah's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<br/>
-abdullahsayed30@gmail.com
+
 
 
