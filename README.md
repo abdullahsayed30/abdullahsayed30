@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 <h2>😄 About Me</h2>
 
 - A Software Engineer at <a href="https://www.tofaha.net/">Tofaha</a>
-- Studied Computer Science 
-
+- Owner of <a href="https://github.com/Athkarok">Athkarok</a> App
 <h2>⚡ Overviwe:</h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdullahsayed30&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abdullahsayed30" /> </p>
 
