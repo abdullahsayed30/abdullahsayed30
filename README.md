@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 - A Software Engineer at <a href="https://www.tofaha.net/">Tofaha</a>
 - Owner of <a href="https://github.com/Athkarok">Athkarok</a> App
 <h2>⚡ Overviwe</h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdullahsayed30&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abdullahsayed30" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdullahsayed30&show_icons=true&locale=en&layout=compact&theme=gotham&count_private=true" alt="abdullahsayed30" /> </p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahsayed30&show_icons=true&locale=en&layout=compact&theme=gotham" alt="abdullahsayed30" /> </p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahsayed30&show_icons=true&locale=en&layout=compact&theme=gotham&count_private=true" alt="abdullahsayed30" /> </p>
 
 <br/>
 
